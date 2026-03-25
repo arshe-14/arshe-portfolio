@@ -67,7 +67,7 @@ const About = () => {
               "md:gap-x-8 gap-x-2 flex-wrap gap-y-4 md:gap-y-8 justify-center"
             }
           >
-            <div className="py-2 px-7 md:py-5 md:px-11 bg-linear-to-r from-gray-200 to-white shadow-5xl">
+            <div className="duration-300 cursor-pointer hover:-translate-y-2 hover:scale-110 hover:shadow-2xl py-2 px-7 md:py-5 md:px-11 bg-linear-to-r from-gray-200 to-white shadow-5xl rounded-2xl">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 48 48"
@@ -80,7 +80,7 @@ const About = () => {
                 />
               </svg>
             </div>
-            <div className="py-2 px-7 md:py-5 md:px-11 bg-linear-to-r from-gray-200 to-white shadow-5xl">
+            <div className="duration-300 cursor-pointer hover:-translate-y-2 hover:scale-110 hover:shadow-2xlpy-2 px-7 md:py-5 md:px-11 bg-linear-to-r from-gray-200 to-white shadow-5xl rounded-2xl">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 48 48"
@@ -101,7 +101,7 @@ const About = () => {
                 />
               </svg>
             </div>
-            <div className="py-2 px-7 md:py-5 md:px-11 bg-linear-to-r from-gray-200 to-white shadow-5xl">
+            <div className="duration-300 cursor-pointer hover:-translate-y-2 hover:scale-110 hover:shadow-2xlpy-2 px-7 md:py-5 md:px-11 bg-linear-to-r from-gray-200 to-white shadow-5xl rounded-2xl">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 48 48"
@@ -122,7 +122,7 @@ const About = () => {
                 />
               </svg>
             </div>
-            <div className="py-2 px-7 md:py-5 md:px-11 bg-linear-to-r from-gray-200 to-white shadow-5xl">
+            <div className="duration-300 cursor-pointer hover:-translate-y-2 hover:scale-110 hover:shadow-2xlpy-2 px-7 md:py-5 md:px-11 bg-linear-to-r from-gray-200 to-white shadow-5xl rounded-2xl">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 48 48"
@@ -136,7 +136,7 @@ const About = () => {
                 />
               </svg>
             </div>
-            <div className="py-2 px-7 md:py-5 md:px-11 bg-linear-to-r from-gray-200 to-white shadow-5xl">
+            <div className="duration-300 cursor-pointer hover:-translate-y-2 hover:scale-110 hover:shadow-2xlpy-2 px-7 md:py-5 md:px-11 bg-linear-to-r from-gray-200 to-white shadow-5xl rounded-2xl">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 48 48"
@@ -155,7 +155,7 @@ const About = () => {
                 />
               </svg>
             </div>
-            <div className="py-2 px-7 md:py-5 md:px-11 bg-linear-to-r from-gray-200 to-white shadow-5xl">
+            <div className="duration-300 cursor-pointer hover:-translate-y-2 hover:scale-110 hover:shadow-2xlpy-2 px-7 md:py-5 md:px-11 bg-linear-to-r from-gray-200 to-white shadow-5xl rounded-2xl">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 48 48"
@@ -177,7 +177,7 @@ const About = () => {
                 <circle cx="24" cy="24" r="4" fill="#80deea" />
               </svg>
             </div>
-            <div className="py-2 px-7 md:py-5 md:px-11 bg-linear-to-r from-gray-200 to-white shadow-5xl">
+            <div className="duration-300 cursor-pointer hover:-translate-y-2 hover:scale-110 hover:shadow-2xlpy-2 px-7 md:py-5 md:px-11 bg-linear-to-r from-gray-200 to-white shadow-5xl rounded-2xl">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 48 48"
@@ -196,7 +196,7 @@ const About = () => {
                 />
               </svg>
             </div>
-            <div className="py-2 px-7 md:py-5 md:px-11 bg-linear-to-r from-gray-200 to-white shadow-5xl">
+            <div className="duration-300 cursor-pointer hover:-translate-y-2 hover:scale-110 hover:shadow-2xlpy-2 px-7 md:py-5 md:px-11 bg-linear-to-r from-gray-200 to-white shadow-5xl rounded-2xl">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 48 48"
@@ -222,7 +222,7 @@ const About = () => {
                 <circle cx="32" cy="24" r="7" fill="#29b6f6" />
               </svg>
             </div>
-            <div className="py-2 px-7 md:py-5 md:px-11 bg-linear-to-r from-gray-200 to-white shadow-5xl">
+            <div className="duration-300 cursor-pointer hover:-translate-y-2 hover:scale-110 hover:shadow-2xlpy-2 px-7 md:py-5 md:px-11 bg-linear-to-r from-gray-200 to-white shadow-5xl rounded-2xl">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 48 48"
@@ -243,7 +243,7 @@ const About = () => {
                 />
               </svg>
             </div>
-            <div className="py-2 px-7 md:py-5 md:px-11 bg-linear-to-r from-gray-200 to-white shadow-5xl">
+            <div className="duration-300 cursor-pointer hover:-translate-y-2 hover:scale-110 hover:shadow-2xlpy-2 px-7 md:py-5 md:px-11 bg-linear-to-r from-gray-200 to-white shadow-5xl rounded-2xl">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 48 48"
